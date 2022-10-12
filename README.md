@@ -1,4 +1,9 @@
 # hello-embedded
 
+## 资料
+
+[嵌入式](https://www.rust-lang.org/zh-CN/what/embedded)
+
 ## esp
-- [esp-template 使用](https://github.com/hello-embedded/hello-embedded/blob/main/esp/esp-template.md)
+
+- [esp 资源](./esp/README.md)

@@ -18,3 +18,14 @@ https://github.com/esp-rs/esp-template
 ### web-flash
 1. 下载 [web-flash](https://github.com/bjoernQ/esp-web-flash-server)
 2. 运行脚本`./scripts/flash.sh`
+
+## 调试 Wokwi
+### Debuging with Wokwi
+vscode 安装插件[gdb debug](https://marketplace.visualstudio.com/items?itemName=DamianKoper.gdb-debug)
+
+ 1. Run the Wokwi Simulation in `debug` profile `./scripts/run-wokwi.sh debug`
+ 2. Go to `Run and Debug` section of the IDE (`Ctrl-Shift-D or Cmd-Shift-D`)
+ 3. Start Debugging by pressing the Play Button or pressing `F5`
+ 4. Choose the proper user:
+     - `esp` when using VS Code or GitHub Codespaces
+     - `gitpod` when using Gitpod

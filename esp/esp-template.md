@@ -19,7 +19,7 @@ https://github.com/esp-rs/esp-template
 1. 下载 [web-flash](https://github.com/bjoernQ/esp-web-flash-server)
 2. 运行脚本`./scripts/flash.sh`
 
-## 调试 Wokwi
+## [调试 Wokwi](https://github.com/esp-rs/esp-template/tree/main/docs#debuging-with-wokwi)
 ### Debuging with Wokwi
 vscode 安装插件[gdb debug](https://marketplace.visualstudio.com/items?itemName=DamianKoper.gdb-debug)
 

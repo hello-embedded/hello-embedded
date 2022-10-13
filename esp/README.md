@@ -33,7 +33,8 @@ https://github.com/SergioGasquez/thingspeak-example
 
 ## eps32
 
-[book](https://github.com/esp-rs/book)
+[book](https://esp-rs.github.io/book/)
+[espressif-trainings](https://github.com/ferrous-systems/espressif-trainings)
 [esp-hal 文档](https://github.com/bjoernQ/esp-hal-get-started)
 [examples](https://github.com/esp-rs/esp-hal/tree/main/esp32c3-hal/examples)
 [examples](https://github.com/esp-rs/esp-hal-examples)

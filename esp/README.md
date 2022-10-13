@@ -8,18 +8,24 @@
 
 https://github.com/bortyr/iot_ruststack_demo
 https://github.com/leelists/rust-nrf24l01-demo
-https://github.com/bjoernQ/puny-tls-esp32c3-demo
 https://github.com/tomoyuki-nakabayashi/rust-esp32-c3-guessing-game
 https://github.com/snasirca/rust-esp32-c3-blinky
 https://github.com/javiser/esp32-c3-32s-kit-example
 https://github.com/matthew-a-thomas/hello_esp32c3
-https://github.com/bjoernQ/ps2keyboard-esp32c3
 https://github.com/planet0104/hello-esp32
 https://github.com/System-rat/esp32-c3-rust-iot-test
 https://github.com/jrmoulton/smart-fan-rs
 https://github.com/fabiojmendes/esp32rgb
 https://github.com/bjoernQ/esp32-rust-nostd-temperature-logger
 https://github.com/MabezDev/esp32c3-idf-led-example
+https://github.com/SergioGasquez/thingspeak-example
+
+### esp32c3-hal
+- https://github.com/bjoernQ/ps2keyboard-esp32c3
+- https://github.com/bjoernQ/puny-tls-esp32c3-demo
+- https://github.com/jrmoulton/smart-fan-rs
+- https://github.com/bjoernQ/esp32-rust-nostd-temperature-logger
+
 
 ## 资料
 

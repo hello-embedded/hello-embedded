@@ -1,3 +1,5 @@
+## 功能三方库
+
 ## 开发框架
 
 - [esp-template 生成开发模板](./esp-template.md)
@@ -33,20 +35,24 @@ https://github.com/SergioGasquez/thingspeak-example
 
 ## eps32
 
-[book](https://esp-rs.github.io/book/)
-[espressif-trainings](https://github.com/ferrous-systems/espressif-trainings)
-[esp-hal 文档](https://github.com/bjoernQ/esp-hal-get-started)
-[examples](https://github.com/esp-rs/esp-hal/tree/main/esp32c3-hal/examples)
-[examples](https://github.com/esp-rs/esp-hal-examples)
-[eps-rs](https://github.com/esp-rs)
-[eps32-c3 芯片信息](https://www.espressif.com.cn/zh-hans/products/socs/esp32-c3)
-[esp32 介绍](https://zhuanlan.zhihu.com/p/535230399?utm_id=0)
-[ota 升级](https://github.com/bjoernQ/esp32c3-ota-experiment)
+- [book](https://esp-rs.github.io/book/)
+- [espressif-trainings](https://github.com/ferrous-systems/espressif-trainings)
+- [esp-hal 文档](https://github.com/bjoernQ/esp-hal-get-started)
+- [examples](https://github.com/esp-rs/esp-hal/tree/main/esp32c3-hal/examples)
+- [examples](https://github.com/esp-rs/esp-hal-examples)
+- [eps-rs](https://github.com/esp-rs)
+- [eps32-c3 芯片信息](https://www.espressif.com.cn/zh-hans/products/socs/esp32-c3)
+  - [技术规格书](https://www.espressif.com/sites/default/files/documentation/esp32-c3_datasheet_cn.pdf)
+- [esp32 介绍](https://zhuanlan.zhihu.com/p/535230399?utm_id=0)
+- [ota 升级](https://github.com/bjoernQ/esp32c3-ota-experiment)
 
 ## 操作系统
 
 [rCore-OS 操作系统](https://rcore-os.cn)
 
 ## 论坛
-
+[嘉立创](https://www.jlc.com/)
+[立创商城](https://www.szlcsc.com/)
+[华强商城](https://www.hqbuy.com/)
+[猎芯商城](https://www.ichunt.com/)
 [数码之家](https://www.mydigit.cn/)

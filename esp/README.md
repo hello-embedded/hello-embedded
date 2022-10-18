@@ -35,24 +35,30 @@ https://github.com/SergioGasquez/thingspeak-example
 
 ## eps32
 
-- [book](https://esp-rs.github.io/book/)
-- [espressif-trainings](https://github.com/ferrous-systems/espressif-trainings)
-- [esp-hal 文档](https://github.com/bjoernQ/esp-hal-get-started)
-- [examples](https://github.com/esp-rs/esp-hal/tree/main/esp32c3-hal/examples)
-- [examples](https://github.com/esp-rs/esp-hal-examples)
-- [eps-rs](https://github.com/esp-rs)
-- [eps32-c3 芯片信息](https://www.espressif.com.cn/zh-hans/products/socs/esp32-c3)
-  - [技术规格书](https://www.espressif.com/sites/default/files/documentation/esp32-c3_datasheet_cn.pdf)
+- [esp32-官网文档](https://docs.espressif.com/projects/esp-idf/en/latest/esp32c3/api-reference/peripherals/spi_master.html)
 - [esp32 介绍](https://zhuanlan.zhihu.com/p/535230399?utm_id=0)
+- [esp32基础教程](https://www.it610.com/article/1445532535370067968.htm)
+- [esp32基础教程](https://blog.csdn.net/zhusongziye?type=blog)
+- [espressif-trainings](https://github.com/ferrous-systems/espressif-trainings)
+- [ ] [examples](https://github.com/esp-rs/esp-hal/tree/main/esp32c3-hal/examples)
+- [ ] [examples](https://github.com/esp-rs/esp-hal-examples)
+- [ ] [eps32-c3 芯片信息](https://www.espressif.com.cn/zh-hans/products/socs/esp32-c3)
+  - [技术文档](https://www.espressif.com.cn/zh-hans/support/documents/technical-documents)
+  - [技术参考手册](https://www.espressif.com.cn/sites/default/files/documentation/esp32-c3_technical_reference_manual_cn.pdf)
+  - [Api参考](https://docs.espressif.com/projects/esp-idf/zh_CN/latest/esp32c3/api-reference/index.html)
+  - [技术规格书](https://www.espressif.com.cn/sites/default/files/documentation/esp32-c3_datasheet_cn.pdf)
 - [ota 升级](https://github.com/bjoernQ/esp32c3-ota-experiment)
+- [x] [eps-rs](https://github.com/esp-rs)
+- [x] [esp-hal 文档](https://github.com/bjoernQ/esp-hal-get-started)
+- [x] [book](https://esp-rs.github.io/book/)
 
 ## 操作系统
 
 [rCore-OS 操作系统](https://rcore-os.cn)
 
 ## 论坛
-[嘉立创](https://www.jlc.com/)
-[立创商城](https://www.szlcsc.com/)
-[华强商城](https://www.hqbuy.com/)
-[猎芯商城](https://www.ichunt.com/)
-[数码之家](https://www.mydigit.cn/)
+- [嘉立创](https://www.jlc.com/)
+- [立创商城](https://www.szlcsc.com/)
+- [华强商城](https://www.hqbuy.com/)
+- [猎芯商城](https://www.ichunt.com/)
+- [数码之家](https://www.mydigit.cn/)

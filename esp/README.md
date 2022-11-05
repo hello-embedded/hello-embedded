@@ -31,7 +31,8 @@ https://github.com/SergioGasquez/thingspeak-example
 
 ## 资料
 
-[嵌入式](https://www.rust-lang.org/zh-CN/what/embedded)
+- [嵌入式](https://www.rust-lang.org/zh-CN/what/embedded)
+- [datasheet搜索](https://pdf.jiepei.com/s/)
 
 ## eps32
 
@@ -57,6 +58,8 @@ https://github.com/SergioGasquez/thingspeak-example
 [rCore-OS 操作系统](https://rcore-os.cn)
 
 ## 论坛
+- [创客社区汇总](https://mc.dfrobot.com.cn/links/)
+- [df创客社区](https://www.dfrobot.com.cn/)
 - [嘉立创](https://www.jlc.com/)
 - [立创商城](https://www.szlcsc.com/)
 - [华强商城](https://www.hqbuy.com/)
